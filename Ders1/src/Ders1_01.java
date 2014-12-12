@@ -37,9 +37,12 @@ public class Ders1_01 {
 
 	public static void main(String[] args) {
 		Dort_islem Toplat = new Dort_islem();
-		System.out.println("Birici sayiyi giriniz: ");
+		System.out.println("Birinci sayiyi giriniz: ");
 		Scanner input1=new 
-		int sayi=input1.nextdouble();
+		int a=input1.nextdouble();
+		System.out.println("Ýkinci sayiyi giriniz: ");
+		Scanner input1=new 
+		int b=input1.nextdouble();
 		
 
 	}
